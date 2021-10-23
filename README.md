@@ -10,3 +10,7 @@
 | Maximize the sum  |🟢| [🔗](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/maximize-sum-0423b95e/) |✔️|🟢|
 | Remove Element  |🟢| [🔗](https://leetcode.com/problems/remove-element/) |✔️|🟢|
 | Search Insert Position  |🟢| [🔗](https://leetcode.com/problems/search-insert-position/) |||
+| Maximum Subarray  |🟢| [🔗](https://leetcode.com/problems/maximum-subarray/) |||
+| Transpose Matrix  |🟢| [🔗](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/tutorial/) |||
+| Degree of an Array |🟢| [🔗](https://leetcode.com/problems/degree-of-an-array/) |||
+| Monk and Inversions |🟢| [🔗](https://www.hackerearth.com/practice/codemonk/) |||
