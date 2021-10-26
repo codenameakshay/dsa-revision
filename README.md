@@ -10,7 +10,6 @@
 | Remove Duplicates from Sorted Array  |🟢| [🔗](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |✔️|🟢|
 | Maximize the sum  |🟢| [🔗](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/maximize-sum-0423b95e/) |✔️|🟢|
 | Remove Element  |🟢| [🔗](https://leetcode.com/problems/remove-element/) |✔️|🟢|
-| Search Insert Position  |🟢| [🔗](https://leetcode.com/problems/search-insert-position/) |✔️|🟢|
 | Maximum Subarray (Kadane Algo) |🟢| [🔗](https://leetcode.com/problems/maximum-subarray/) |✔️|🟢|
 | Transpose Matrix  |🟢| [🔗](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/tutorial/) |✔️|🟢|
 | Degree of an Array |🟢| [🔗](https://leetcode.com/problems/degree-of-an-array/) |✔️|🟢|
@@ -31,7 +30,7 @@
 | ---------------------- |:-------------:|:-------------:|:-------------:|:-------------:|
 | Binary Search  |🟢| [🔗](https://leetcode.com/problems/binary-search/) |✔️|🟢|
 | First Bad Version  |🟢| [🔗](https://leetcode.com/problems/first-bad-version/) |✔️|🟢|
-| Search Insert Position  |🟢| [🔗](https://leetcode.com/problems/search-insert-position/) |||
+| Search Insert Position  |🟢| [🔗](https://leetcode.com/problems/search-insert-position/) |✔️|🟢|
 
 ## Dynamic Programming
 | Problem                |Difiiculty| Link           | Solved | Solution Accepted |
