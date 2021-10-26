@@ -16,7 +16,7 @@
 | Degree of an Array |🟢| [🔗](https://leetcode.com/problems/degree-of-an-array/) |✔️|🟢|
 | Contains Duplicate |🟢| [🔗](https://leetcode.com/problems/contains-duplicate/) |✔️|🟢|
 | Monk and Inversions |🟢| [🔗](https://www.hackerearth.com/practice/codemonk/) |✔️|🟢|
-| Merge Sorted Array |🟢| [🔗](https://leetcode.com/problems/merge-sorted-array/) |||
+| Merge Sorted Array |🟢| [🔗](https://leetcode.com/problems/merge-sorted-array/) |✔️|🟢|
 
 ### 2. Strings
 | Problem                |Difiiculty| Link           | Solved | Solution Accepted |
