@@ -36,6 +36,6 @@
 ## Dynamic Programming
 | Problem                |Difiiculty| Link           | Solved | Solution Accepted |
 | ---------------------- |:-------------:|:-------------:|:-------------:|:-------------:|
-| Fibonacci Number  |🟢| [🔗](https://leetcode.com/problems/fibonacci-number/) |||
+| Fibonacci Number  |🟢| [🔗](https://leetcode.com/problems/fibonacci-number/) |✔️|🟢|
 | Climbing Stairs  |🟢| [🔗](https://leetcode.com/problems/climbing-stairs/) |||
 | N-th Tribonacci Number  |🟢| [🔗](https://leetcode.com/problems/n-th-tribonacci-number/) |||
