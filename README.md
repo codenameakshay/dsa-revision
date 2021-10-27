@@ -18,7 +18,7 @@
 | Merge Sorted Array |🟢| [🔗](https://leetcode.com/problems/merge-sorted-array/) |✔️|🟢|
 | Intersection of Two Arrays |🟢| [🔗](https://leetcode.com/problems/intersection-of-two-arrays/) |✔️|🟢|
 | Intersection of Two Arrays II |🟢| [🔗](https://leetcode.com/problems/intersection-of-two-arrays-ii/) |✔️|🟢|
-| Best Time to Buy and Sell Stock |🟢| [🔗](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |||
+| Best Time to Buy and Sell Stock |🟢| [🔗](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |✔️|🟢|
 
 ### 2. Strings
 | Problem                |Difiiculty| Link           | Solved | Solution Accepted |
